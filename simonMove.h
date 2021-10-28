@@ -1,0 +1,10 @@
+#ifndef SIMON_SIMONMOVE_H
+#define SIMON_SIMONMOVE_H
+void dance();
+void leftHand();
+void rightHand();
+void head();
+void shrug();
+void shake();
+void stand();
+#endif //SIMON_SIMONMOVE_H
